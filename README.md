@@ -1,3 +1,5 @@
+# Discrete math project
+
 This repo contains materials to help high school math teachers and
 their students get started programming in Python and then applying
 what they learn to explore topics in discrete math. We hope in the
