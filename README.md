@@ -12,6 +12,8 @@ We recommend the following sequence.
 + Markdown
 + Math formatting
 + Python intro for HS math - part 3
++ Introduction to NumPy
++ Samplings and permutations using NumPy
 
 ## Python intro for HS math - part 1
 
@@ -48,3 +50,15 @@ the language. Topics include dictionaries (key-value pairs), tuples,
 iterators, deep copies and shallow copies, maps, working with files
 and the Python standard library.
 
+## Introduction to NumPy
+
+Covers the basics of the Python NumPy library, which provides support
+arrays and a large collection of mathematical functions for working
+with these arrays. Topics include the N-dimensional array type (ndarray), 
+array creation, getting information on arrays, operating on arrays.
+
+## Sampling and permutations
+
+After learning about MumPy, we dive into some of the topics that will
+be directly relevant to discrete math, with an emphasis on sampling
+and permutations.
