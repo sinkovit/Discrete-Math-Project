@@ -22,42 +22,10 @@ areas of discrete math.
 Examples of cryptography techniques that are based on permuting,
 scrambling or otherwise reordering letters.
 
+## Iterations and recursions
 
-## Python intro for HS math - part 1
+Illustration of recursion techniques using well-known examples such as Fibonacci numbers
 
+## Games
 
-## Python intro for HS math - part 2
-
-
-## Markdown
-
-Jupyter Notebooks contain a mixture of executable code and markdown
-cells. We've been using markdown all along, but without going into any
-details. This Notebook covers markdown in more depth and describes
-headers, italic and bold text, code syntax and escaping. This Notebook
-and the one on math formatting are not specific to Python and make a
-nice break after the programming topics.
-
-## Math formatting
-
-o
-## Python intro for HS math - part 3
-
-This Notebook finishes the introduction to Python and covers material
-that may not be needed immediately, but does round out knowledge of
-the language. Topics include dictionaries (key-value pairs), tuples,
-iterators, deep copies and shallow copies, maps, working with files
-and the Python standard library.
-
-## Introduction to NumPy
-
-Covers the basics of the Python NumPy library, which provides support
-arrays and a large collection of mathematical functions for working
-with these arrays. Topics include the N-dimensional array type (ndarray), 
-array creation, getting information on arrays, operating on arrays.
-
-## Sampling and permutations
-
-After learning about MumPy, we dive into some of the topics that will
-be directly relevant to discrete math, with an emphasis on sampling
-and permutations.
+Examples of games such as Thai 21
