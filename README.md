@@ -5,27 +5,29 @@ their students get started programming in Python and then applying
 what they learn to explore topics in discrete math. We hope in the
 future to extend this to other math topics.
 
-We recommend the following sequence.
+The content has been grouped into directories and we suggest starting
+with the Introduction and working through the notebooks in
+order. After covering the introductory materials, the other topics can
+be taken in any order.
 
-+ Python intro for HS math - part 1
-+ Python intro for HS math - part 2
-+ Markdown
-+ Math formatting
-+ Python intro for HS math - part 3
-+ Introduction to NumPy
-+ Samplings and permutations using NumPy
+## Introduction
+
+A series of notebooks that introduce the Python language, Jupyter
+notebooks and markdown language. Also includes specialized topics,
+such as combinations and permutations, that are fundamental to many
+areas of discrete math.
+
+## Cryptography reordering
+
+Examples of cryptography techniques that are based on permuting,
+scrambling or otherwise reordering letters.
+
 
 ## Python intro for HS math - part 1
 
-This Notebook covers the basics of Python - math operations,
-variables, Booleans and logic, comments, a very quick introduction to
-NumPy, strings, lists and sets. It also introduces the Jupter Notebook
-environment that we'll be using throughout these lessons.
 
 ## Python intro for HS math - part 2
 
-Picks up where we left off earlier and covers decision making, loops,
-functions, modules and Python's help facility.
 
 ## Markdown
 
@@ -38,10 +40,7 @@ nice break after the programming topics.
 
 ## Math formatting
 
-Extends the markdown syntax by showing how to incorporate math
-formatting, such as subscripts and superscripts, square roots, math
-symbols, integrals, sums, Greek letters and matrices.
-
+o
 ## Python intro for HS math - part 3
 
 This Notebook finishes the introduction to Python and covers material
