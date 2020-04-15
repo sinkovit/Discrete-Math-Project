@@ -27,6 +27,6 @@ Extends the markdown syntax by showing how to incorporate math
 formatting, such as subscripts and superscripts, square roots, math
 symbols, integrals, sums, Greek letters and matrices.
 
-## 05 Combinations and iterations.ipynb
+## 05 Combinations and permutations.ipynb
 
 Introduction to combinations and permutations using the Python itertools module
