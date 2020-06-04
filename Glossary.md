@@ -2,7 +2,7 @@
 This file provides brief definitions of programming and math terms that may be unfamiliar
 
 ## Programming
-+ <p> *Syntax* <a id='Syntax'></a>: A set of programming rules that the language has to follow. This includes any structure rules or keywords that are necessary for the computer to interpret the code. Examples in python include if():, not, **, for():, tab, etc. <p>
++ <p>Syntax<a id='Syntax'></a>: A set of programming rules that the language has to follow. This includes any structure rules or keywords that are necessary for the computer to interpret the code. Examples in python include if():, not, **, for():, tab, etc. <p>
 
 + <p>Delimiter<a id='Delimit'></a>: A marker used to denote the boundry between different areas. For python, whitespaces serve as delimiters. 
     
