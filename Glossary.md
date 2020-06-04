@@ -69,7 +69,7 @@ This file provides brief definitions of programming and math terms that may be u
     
     If the conditional evaluates to true, the something will be executed, otherwise the commands contained within the indent will be ignored.<p>
     
-+<p>Nesting<a id='Nesting'></a>: Nesting is the process of putting multiple conditional statements within one another. This is usually indicated through various levels of indentation in most programming languages, and is key in python as whitespaces serve as a delimiter for different blocks of code.
++ <p>Nesting<a id='Nesting'></a>: Nesting is the process of putting multiple conditional statements within one another. This is usually indicated through various levels of indentation in most programming languages, and is key in python as whitespaces serve as a delimiter for different blocks of code.
     
     ```python
     if(something):
@@ -87,7 +87,7 @@ This file provides brief definitions of programming and math terms that may be u
  
     In the above example, `if(something_different)` and `while(some_other_conditional)` are both nested within `if(something)` and `if(something_different_2)` is nested within `if(something)` and `if(something_different)`<p>
     
-+<p>Iterate<a id='Iterate'></a>: Iteration is the repetition of some block of code until a specified condition is met. This is done in programming through creating some sort of loop.
++ <p>Iterate<a id='Iterate'></a>: Iteration is the repetition of some block of code until a specified condition is met. This is done in programming through creating some sort of loop.
     
     ```python
     while(condition_evaluates_to_true):
@@ -108,7 +108,7 @@ This file provides brief definitions of programming and math terms that may be u
     3
     4<p>
     
-+<p>Instance<a id='Instance'></a>: An instance in programming is an object that has been created. Creating an object from a class is called instantiating it for this reason.
++ <p>Instance<a id='Instance'></a>: An instance in programming is an object that has been created. Creating an object from a class is called instantiating it for this reason.
     
     ```python
     string1 = "tree"
@@ -117,7 +117,7 @@ This file provides brief definitions of programming and math terms that may be u
     
     In the above code, we instantiate an object, `string1` and 'string2', of class string. The power of instances is that different instances can contain different variables. In this case, `string1` and `string2` are both objects of class string, however they contain different strings. <p>
         
-+<p>Index<a id='Index'></a>: The index of an object is it's position in a list, array, string, etc. The first position is at index '0'. 
++ <p>Index<a id='Index'></a>: The index of an object is it's position in a list, array, string, etc. The first position is at index '0'. 
     
     ```python
     string1 = "tree"
