@@ -127,6 +127,3 @@ This file provides brief definitions of programming and math terms that may be u
     In the above example, string1[0] would be 't', list1[0] would be 1, string1[1] would be 'r', list1[1] would be 2.0, string1[-1] would be 'e', and list1[-1] would be "three".
     
 ## Math
-+ Sample item 1: definition
-
-+ Sample item 2: definition
