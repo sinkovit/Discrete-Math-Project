@@ -54,7 +54,7 @@ This file provides brief definitions of programming and math terms that may be u
     * boolean<a id='Booleans'></a>: True or False.
     * string<a id='String'></a>: A collection of any number of characters. e.g "a", "212", "Hello world!"
     * list<a id='Lists'></a>: A collection of any number of objects, strings, numbers. Denoted by []. e.g [1.0, "Jones", True, 212, 212]
-    * set<a id='Sets'></a>: A collection similar to a list, however elements cannot be repeated and it is not ordered. Denoted by {}. e.g [1.0, "Jones", True, 212]
+    * set<a id='Sets'></a>: A collection similar to a list, however elements cannot be repeated and it is not ordered. Denoted by {}. e.g {1.0, "Jones", True, 212}
     * tuple<a id='Tuple'></a>: A collection similar to list, however it's contents and size cannot be changed. Denoted by (). e.g (1, "Toby", 2.34)<p>
 <p>
         
