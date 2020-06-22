@@ -30,3 +30,8 @@ symbols, integrals, sums, Greek letters and matrices.
 ## 05 Combinations and permutations.ipynb
 
 Introduction to combinations and permutations using the Python itertools module
+
+## 06 Python intro part2.ipynb
+
+Introduction to a few more topics to round out basic knowledge of Python programming:
+dictionaries, tuples, iterators, deep copies, output formatting and file I/O
