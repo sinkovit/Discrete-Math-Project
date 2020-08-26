@@ -11,5 +11,5 @@ RUN conda install -y -c conda-forge fastparquet
 
 USER jovyan
 
-RUN git clone https://github.com/sinkovit/PythonSeries.git ./PythonSeries
-RUN cd PythonSeries
+RUN git clone https://github.com/sinkovit/Discrete-Math-Project.git ./Discrete-Math-Project
+RUN cd Discrete-Math-Project
