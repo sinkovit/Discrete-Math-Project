@@ -7,8 +7,8 @@ USER root
 #RUN conda install -y numpy scipy pandas matplotlib toolz pytables python-graphviz scikit-learn mkl
 #RUN conda install -y dask distributed
 RUN conda update -n base conda
-RUN conda install -y numpy matplotlib toolz pytables mkl
-RUN conda install -y -c conda-forge fastparquet
+RUN conda install -y numpy matplotlib toolz mkl
+#RUN conda install -y -c conda-forge fastparquet
 
 USER jovyan
 
