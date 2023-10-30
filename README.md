@@ -29,3 +29,5 @@ Illustration of recursion techniques using well-known examples such as Fibonacci
 ## Games
 
 Examples of games such as Thai 21 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sinkovit/Discrete-Math-Project/HEAD)
